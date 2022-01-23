@@ -8,7 +8,7 @@
 - 똑같이 3번적고 다음 커널로 넘어가시면 됩니다.
 ---
 # Binary classification : Tabular data
-## 1st level. Titanic: Machine Learning from Disaster
+## [1st level. Titanic: Machine Learning from Disaster](https://github.com/xoyeon/kaggle-study/tree/main/Titanic)
 - 타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning
 - EDA To Prediction(DieTanic)
 - Titanic Top 4% with ensemble modeling
