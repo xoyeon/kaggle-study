@@ -1,5 +1,5 @@
 # [1st level. Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-- [타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316)
+- [타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/playlist?list=PLC_wC_PMBL5MnqmgTLqDgu4tO8mrQakuF)](https://www.youtube.com/playlist?list=PLC_wC_PMBL5MnqmgTLqDgu4tO8mrQakuF)
 - [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 - [Titanic Top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
