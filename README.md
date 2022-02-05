@@ -55,7 +55,7 @@
 - XGBoost, LightGBM, and OLS and NN
 
 # Object segmentation : Deep learning
-## 1st level. 2018 Data Science Bowl
+## [1st level. 2018 Data Science Bowl]((https://github.com/xoyeon/kaggle-study/tree/main/2018_Data_Science_Bowl))
 - Teaching notebook for total imaging newbies
 - Keras U-Net starter - LB 0.277
 - Nuclei Overview to Submission
